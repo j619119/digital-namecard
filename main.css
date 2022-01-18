@@ -135,11 +135,11 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background: linear-gradient(to bottom right,#f5a5fc,#e4fd9d);
+	background: linear-gradient(to bottom right,#db89fe,#e4fd9d);
 }
 
 .bg-color-white {
-	background: linear-gradient(#ffffff,#a9ffc6);
+	background: linear-gradient(to right, #ffffff,#a9ffc6);
 }
 
 .text-name {
