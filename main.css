@@ -135,11 +135,11 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-color: linear-gradient(to bottom right, light pink, light green);
+	background-color: linear-gradient(to bottom right,  #F5A5FC,  #E4FD9D);
 }
 
 .bg-color-white {
-	background-color: linear-gradient(white, light blue);
+	background-color: linear-gradient(#FFFFFF,  #A9FFC6);
 }
 
 .text-name {
@@ -168,7 +168,7 @@ img.profile-pic {
 }
 
 .button {
-	background-color: beige;
+	background-color: #FFE24F;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
