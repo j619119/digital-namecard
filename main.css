@@ -135,7 +135,7 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-color: #F2F2F2;
+	background-color: linear-gradient(to bottom right, light pink, light green);
 }
 
 .bg-color-white {
