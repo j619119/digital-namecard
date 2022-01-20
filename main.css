@@ -135,11 +135,11 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background: linear-gradient(to bottom right,#db89fe,#e4fd9d);
+	 background-image: url("https://github.com/j619119/digital-namecard/blob/3108bcc13be24e053396396fb5af8b4c7f54a12d/pol_background.jpg");
 }
 
 .bg-color-white {
-	background: linear-gradient(to right, #ffffff,#a9ffc6);
+	background-image: url("https://github.com/j619119/digital-namecard/blob/3108bcc13be24e053396396fb5af8b4c7f54a12d/background.jpeg");
 }
 
 .text-name {
