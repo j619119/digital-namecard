@@ -135,11 +135,11 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	 background-image: url("https://github.com/j619119/digital-namecard/pol_background.jpg");
+	 background-image: url("../pol_background.jpg");
 }
 
 .bg-color-white {
-	background-image: url("https://github.com/j619119/digital-namecard/background.jpeg");
+	background-image: url("../background.jpeg");
 }
 
 .text-name {
