@@ -139,7 +139,7 @@ img.profile-pic {
 }
 
 .bg-color-white {
-	background-image: url("./image/pol_background.jpg");
+	background: linear-gradient(to right, "#ee89fe", "#daf7a6");
 }
 
 .text-name {
