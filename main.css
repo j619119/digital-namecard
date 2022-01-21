@@ -135,7 +135,7 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	 background-image: url("./image/pol_background.jpg");
+	 background-image: url("./image/pol_background.jpg");background-size: 300px 100px
 }
 
 .bg-color-white {
