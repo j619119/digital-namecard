@@ -139,7 +139,7 @@ img.profile-pic {
 }
 
 .bg-color-white {
-	background-image: linear-gradient(to right, #ee89fe, #daf7a6);
+	background-color: linear-gradient(to right, #ee89fe, #daf7a6);
 }
 
 .text-name {
