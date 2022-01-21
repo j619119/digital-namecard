@@ -135,11 +135,11 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	 background-image: url("./image/pol_background.jpg");background-size: 30px 10px
+	 background-image: url("./image/background.jpeg");
 }
 
 .bg-color-white {
-	background-image: url("./image/background.jpeg");
+	background-image: url("./image/pol_background.jpg");
 }
 
 .text-name {
